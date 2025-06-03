@@ -1,0 +1,57 @@
+.a{
+    background-color: red;
+    color: aquamarine;
+    margin: 50px;
+    font-size: 70px;
+    border: 20px solid black;
+    margin: 40px;
+}
+.b{
+    background-color: brown;
+    color: white;
+    margin: 50px;
+    font-size: 70px;
+    border: 20px solid black;
+    margin: 40px;
+}
+.c{
+    background-color: orange;
+    color: wheat;
+    margin: 50px; 
+    font-size: 70px;  
+    border: 20px solid black;
+    margin: 40px;
+}
+.body{
+    text-align: center;
+    background-color: burlywood;
+}
+h1{
+    background-color: pink;
+    margin: 20px;
+}
+h2{
+    background-color:orange ;
+    color: aliceblue;
+    font-size: 25px;
+    margin: 50px;
+}
+h3{
+    background-color: brown;
+    color: aliceblue;
+    font-size: 25px;
+}
+.z{
+    background-color: orange;
+    color: blue;
+    margin: 50px; 
+    font-size: 70px;  
+    border: 20px solid black;
+    margin: 40px;
+    
+}
+.d{
+    text-align: center;
+    background-color: pink;
+    margin: 50px;
+}
